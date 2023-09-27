@@ -10,4 +10,5 @@ package com.gnust.www.model.domain;
  * @Description: 文章内容
  */
 public class Article {
+
 }
